@@ -1,3 +1,4 @@
+My own version. Yay
 # GazePointer
 ## Overview
 GazePointer is an SDK for Hands-Free interaction with a Windows PC. The SDK provides an abstraction layer for interacting with a number of eye trackers. The current implementation provides support for Tobii EyeX based trackers, but other trackers can be added easily. 
